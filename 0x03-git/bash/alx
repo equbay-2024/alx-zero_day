@@ -2,5 +2,9 @@
 ALX School is cool!
 =======
 #!/bin/bash
+<<<<<<< HEAD
 ALX school is so cool!
 >>>>>>> 65107642bd581cefec551dd111d201038217beb3
+=======
+ALX school
+>>>>>>> update_script
